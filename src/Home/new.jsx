@@ -1,8 +1,5 @@
 import { Link } from 'react-router-dom';
 import Card from '../components/Card';
-import summer from './summer.jpg';
-import sport from './sport.jpg';
-import winter from './winter.jpg';
 import Bestselling from '../colection/bestselling';
 import Circle from '../Circle/circle';
 
