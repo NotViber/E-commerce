@@ -1,7 +1,6 @@
 import { Link } from 'react-router-dom';
 import Card from '../components/Card';
 import Bestselling from '../colection/bestselling';
-import Circle from '../Circle/circle';
 
 export default function New(){
 
