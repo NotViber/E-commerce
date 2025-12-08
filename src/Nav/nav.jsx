@@ -12,7 +12,7 @@ export default function Nav({ onHomeClick }) {
         <div className="flex justify-between h-20 items-center">
           <div className="flex items-center">
             <Link to="/">
-            <img src="./src/assets/L969949-20150519004450.jpg" alt="StreetLook Logo" className='w-12 h-12 rounded-full shadow-lg hover:shadow-xl transition-shadow duration-300 cursor-pointer'/>
+            <img src="https://cdn.dribbble.com/userupload/28353904/file/original-26266f8b1a56f21882899f876e7fc1c8.jpg?format=webp&resize=400x300&vertical=center" alt="StreetLook Logo" className='w-12 h-12 rounded-full shadow-lg hover:shadow-xl transition-shadow duration-300 cursor-pointer'/>
             <div className="text-2xl font-bold hover:cursor-pointer ml-2" onClick={onHomeClick}>
               StreetLook
             </div>
