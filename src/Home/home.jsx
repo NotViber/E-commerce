@@ -1,7 +1,7 @@
 
 import { Link } from 'react-router-dom'
 import New from './new'
-import Circle from '../Circle/circle'
+import Circle from '../Circle/Circle'
 export default function Home({ onMaleClick, onFemaleClick }){
     return (<>
     <div className="flex flex-col md:flex-row">
